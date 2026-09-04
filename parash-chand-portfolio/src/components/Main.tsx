@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faKaggle } from '@fortawesome/free-brands-svg-icons';
 // @ts-ignore: allow side-effect import of SCSS without type declarations
 import '../assets/styles/Main.scss';
-import avatarImage from '../assets/images/image.png';
+import avatarImage from '../assets/images/parash.png';
 
 function Main() {
   return (
