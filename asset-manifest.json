@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/parash-chand-portfolio/static/css/main.f2ba43f6.css",
+    "main.js": "/parash-chand-portfolio/static/js/main.1078c632.js",
+    "static/js/453.b05d8aa5.chunk.js": "/parash-chand-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock05.png": "/parash-chand-portfolio/static/media/mock05.cc11c88701990b74873e.png",
+    "static/media/bg-light.png": "/parash-chand-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/image.png": "/parash-chand-portfolio/static/media/image.99fe94a8fb776add940d.png",
+    "static/media/bg-dark.png": "/parash-chand-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock01.png": "/parash-chand-portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
+    "static/media/mock04.png": "/parash-chand-portfolio/static/media/mock04.8bf17b7096a0074fd35e.png",
+    "static/media/mock03.png": "/parash-chand-portfolio/static/media/mock03.de6e80fc76f0fc5d587b.png",
+    "static/media/mock06.png": "/parash-chand-portfolio/static/media/mock06.f3bf8b4cf59b233b8e3a.png",
+    "static/media/mock02.png": "/parash-chand-portfolio/static/media/mock02.7e662ded8247a11fa7b5.png",
+    "index.html": "/parash-chand-portfolio/index.html",
+    "main.f2ba43f6.css.map": "/parash-chand-portfolio/static/css/main.f2ba43f6.css.map",
+    "main.1078c632.js.map": "/parash-chand-portfolio/static/js/main.1078c632.js.map",
+    "453.b05d8aa5.chunk.js.map": "/parash-chand-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ba43f6.css",
+    "static/js/main.1078c632.js"
+  ]
+}
