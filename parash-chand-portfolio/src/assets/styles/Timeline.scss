@@ -1,0 +1,52 @@
+/* 
+   FORCE OVERRIDE & GLOW ENHANCEMENTS
+*/
+.vertical-timeline-element-content {
+    background: #121824 !important;
+    border: 1px solid #1e2638 !important;
+    box-shadow: 0 3px 0 #1e2638 !important;
+    border-radius: 12px !important;
+    transition: all 0.3s ease !important;
+
+    &:hover {
+        border-color: #b794ff !important;
+        box-shadow: 0 0 25px rgba(183, 148, 255, 0.3) !important;
+    }
+}
+
+.vertical-timeline-element-content h3.vertical-timeline-element-title {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+.vertical-timeline-element-content h4.vertical-timeline-element-subtitle {
+    color: #b794ff !important;
+}
+
+.vertical-timeline-element-content p {
+    color: #b0b8c4 !important;
+}
+
+.vertical-timeline-element .vertical-timeline-element-date {
+    color: #ffffff !important;
+    font-weight: bold;
+    opacity: 1 !important;
+}
+
+.svg-inline--fa {
+    color: white;
+}
+
+.cert-date {
+  color: #ffffff !important;
+  font-weight: 600;
+  opacity: 1 !important;
+}
+
+@media screen and (max-width: 1169px) {
+    .vertical-timeline-element .vertical-timeline-element-date {
+        color: #ffffff !important;
+        font-weight: bold;
+        opacity: 1 !important;
+    }
+}
